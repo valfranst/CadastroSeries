@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o8jdE4X1HO22bNp0fIKNeOWh6M7ypk1pxj4LJGI+gXTwyLSLKyUNcvSakcAnHcJC7RTA9tUPIR9ABKsMkttp5Q==",
+  "dgSpecHash": "DUE7j+pXQndGDdPeLMvxvvNm8EPBO67uoP1CfeV1OPKMfKZdFoV2xNf0cKQ+pl36KKz8nBQRodDi6om9cdwVEA==",
   "success": true,
-  "projectFilePath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Base.csproj",
+  "projectFilePath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

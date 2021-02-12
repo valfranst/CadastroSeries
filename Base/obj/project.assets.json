@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Base.csproj",
-      "projectName": "Base",
-      "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Base.csproj",
+      "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
+      "projectName": "Series",
+      "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
       "packagesPath": "C:\\Users\\Valfran\\.nuget\\packages\\",
       "outputPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\obj\\",
       "projectStyle": "PackageReference",
