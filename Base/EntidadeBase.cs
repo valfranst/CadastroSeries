@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Base
 {
-    class EntidadeBase
+    public abstract class EntidadeBase
     {
+        public int Id { get; protected set; }
     }
 }
