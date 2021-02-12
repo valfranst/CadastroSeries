@@ -31,12 +31,14 @@ namespace Series
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
             retorno += "Ano de Inicio: " + this.Ano + Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido + Environment.NewLine;
             return retorno;
         }
 
         public string getTitulo() => this.Titulo;
         public int getId() => this.Id;
         public void Excluir() => this.Excluido = true;
+        public bool getExcluido() => this.Excluido;
 
 
     }   //*****************************

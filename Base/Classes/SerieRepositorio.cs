@@ -23,7 +23,7 @@ namespace Series
         }
 
         public void Insere(Serie objeto)
-        {
+        {                 
             listaSerie.Add(objeto);
         }
 
