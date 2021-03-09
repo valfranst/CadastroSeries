@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj": {}
+    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Teste\\Teste.csproj": {}
   },
   "projects": {
-    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj": {
+    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Teste\\Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
-        "projectName": "Series",
-        "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
+        "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Teste\\Teste.csproj",
+        "projectName": "Teste",
+        "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Teste\\Teste.csproj",
         "packagesPath": "C:\\Users\\Valfran\\.nuget\\packages\\",
-        "outputPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\obj\\",
+        "outputPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valfran\\AppData\\Roaming\\NuGet\\NuGet.Config",

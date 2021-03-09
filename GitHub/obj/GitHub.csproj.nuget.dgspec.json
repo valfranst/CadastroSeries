@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj": {}
+    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\GitHub\\GitHub.csproj": {}
   },
   "projects": {
-    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj": {
+    "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\GitHub\\GitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
-        "projectName": "Series",
-        "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\Series.csproj",
+        "projectUniqueName": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\GitHub\\GitHub.csproj",
+        "projectName": "GitHub",
+        "projectPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\GitHub\\GitHub.csproj",
         "packagesPath": "C:\\Users\\Valfran\\.nuget\\packages\\",
-        "outputPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\Base\\obj\\",
+        "outputPath": "D:\\App\\InnovaOne\\Cadastro_Series\\CadastroSeries\\GitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valfran\\AppData\\Roaming\\NuGet\\NuGet.Config",

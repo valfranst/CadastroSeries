@@ -1,0 +1,16 @@
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.exe
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.deps.json
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.runtimeconfig.json
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.dll
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\ref\Teste.dll
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\bin\Debug\net5.0\Teste.pdb
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.csprojAssemblyReference.cache
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.dll
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\ref\Teste.dll
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.pdb
+D:\App\InnovaOne\Cadastro_Series\CadastroSeries\Teste\obj\Debug\net5.0\Teste.genruntimeconfig.cache
